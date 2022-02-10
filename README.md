@@ -11,6 +11,7 @@ git clone git@github.com:miowni/url-shortener-blue.git
 Build it using Go, by running:
 
 ```
+cd url-shortener-blue
 go build
 ```
 
