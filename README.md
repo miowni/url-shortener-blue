@@ -5,7 +5,7 @@
 Clone this repository by running the following command:
 
 ```
-git clone git@github.com:thzoid/url-shortener-blue.git
+git clone git@github.com:miowni/url-shortener-blue.git
 ```
 
 Build it using Go, by running:
